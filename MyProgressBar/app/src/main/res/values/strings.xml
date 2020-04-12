@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyProgressBar</string>
+    <string name="txtPleaseWait">Por favor, espere...</string>
+</resources>
