@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaseDatos</string>
+    <string name="Photo">Imagen del estudiante</string>
+    <string name="txtName">Nombre Estudiante</string>
+    <string name="txtGender">Género</string>
+    <string name="txtBirthday">Fecha de nacimiento</string>
+</resources>
